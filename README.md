@@ -27,7 +27,7 @@ Actively seeking **AI / ML internships or entry-level roles** to work on impactf
 ---
 
 ## 🧠 Core Strengths (Recruiter-Focused)
-✔ End-to-End ML System Design  
+✔ End-to-End AIML System Design  
 ✔ Production Deployment (FastAPI, Docker, AWS)  
 ✔ Computer Vision & CNN Architectures  
 ✔ Model Evaluation, Optimization & Debugging  
